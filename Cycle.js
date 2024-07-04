@@ -1,3 +1,4 @@
+// https://www.greatfrontend.com/questions/javascript/cycle
 /**
  * @template T
  * @param  {...T} values
